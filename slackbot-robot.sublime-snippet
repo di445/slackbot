@@ -1,4 +1,4 @@
-<snippet>
+  <snippet>
     <content>
 <![CDATA[
 package ${1:${TM_FILENAME/(.*?)(\..+)/$1/}}
